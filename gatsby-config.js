@@ -5,6 +5,10 @@
  */
 
 module.exports = {
+  siteMetaData:{
+    title:'Gatsby-bootcamp',
+    author:'Maheen'
+},
   /* Your site config here */
   plugins: [],
 }
