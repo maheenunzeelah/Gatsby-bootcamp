@@ -5,8 +5,8 @@
  */
 
 module.exports = {
-  siteMetaData:{
-    title:'Gatsby-bootcamp',
+  siteMetadata:{
+    title:'Gatsby-bootcamp!',
     author:'Maheen'
 },
   /* Your site config here */
